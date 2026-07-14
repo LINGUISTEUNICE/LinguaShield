@@ -12,7 +12,7 @@
 
 ---
 
-*Built by [Eunice Esi Essuman](https://github.com/yourusername) 🇬🇭 and Nourhan Ameen 🇪🇬*
+
 *Austin AI Hub · Anti-Trafficking AI Hackathon · Track: Anticipate & Disrupt*
 
 </div>
@@ -334,8 +334,7 @@ linguashield/
 **Eunice Esi Essuman** 🇬🇭
 BA in Linguistics & French. Language expert working at the intersection of data science and natural language. Designed the linguistic signal taxonomy and built the complete prototype. The signal categories, narrative progression framework, and educational story module are grounded in her linguistics background.
 
-**Nourhan Ameen** 🇪🇬
-General Computer Science, Cairo University, specializing in Artificial Intelligence. Designed the production ML pipeline (XLM-RoBERTa), VR awareness module (WebXR), and cloud deployment architecture for LinguaShield V2 and beyond.
+
 
 ---
 
@@ -350,7 +349,7 @@ This project stands on the research and documentation of organizations that have
 - **Walk Free Foundation** — Global Slavery Index
 - **Stop The Traffik** — Community awareness methodologies
 
-We are grateful to the NGO workers, caseworkers, labor inspectors, and survivors whose documented experiences made this signal taxonomy possible.
+I am grateful to the NGO workers, caseworkers, labor inspectors, and survivors whose documented experiences made this signal taxonomy possible.
 
 ---
 
@@ -362,7 +361,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Demo Video
 
-**→ [Watch the 3-minute prototype demo](https://youtu.be/xxxxx)**
+**→ [Watch the 3-minute prototype demo](https://youtu.be/MZ2L1kvqmp4?si=zRjiwLUmlPq2gh6C)**
 
 ---
 
