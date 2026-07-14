@@ -308,11 +308,23 @@ linguashield/
 
 | Module | Preview |
 |---|---|
-| Homepage | ![Homepage](assets/screenshots/01_homepage.png) |
-| Risk Detector | ![Risk Detector](assets/screenshots/02_risk_detector.png) |
-| Awareness Story | ![Story](assets/screenshots/03_awareness_story.png) |
-| Evidence Timeline | ![Timeline](assets/screenshots/04_evidence_timeline.png) |
-| Safety Center | ![Safety](assets/screenshots/05_safety_center.png) |
+### Homepage
+![Homepage](screenshots/screenshot_01_homepage%20(2).png)
+
+### Risk Detector
+![Risk Detector](screenshots/screenshot_02_risk_detector.png)
+
+### Awareness Story
+![Awareness Story](screenshots/screenshot_03_awareness_story.png)
+
+### Evidence Timeline
+![Evidence Timeline](screenshots/screenshot_04_evidence_timeline.png)
+
+### Community Intelligence
+![Community Intelligence](screenshots/screenshot_05_community_intel.png)
+
+### Pattern Explorer
+![Pattern Explorer](screenshots/screenshot_06_pattern_explorer.png)
 
 ---
 
